@@ -1,4 +1,4 @@
-# mini-project-se-revou
+#Mini Project SE Revou  24 Februari 2023
 Tugas mini project software engineer Revou
 
 Sebagai syarat tugas 10 hari mini course
