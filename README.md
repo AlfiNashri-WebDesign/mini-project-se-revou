@@ -8,7 +8,7 @@ website Github page:
 
 https://alfinashri-webdesign.github.io/mini-project-se-revou
 
-isi nama kamu di Prompt nama dulu, sebelum masuk ke website
+Isi dulu nama kamu di Prompt nama, sebelum masuk ke website
 
 
 ![tugas alfi](https://user-images.githubusercontent.com/23645665/220980133-4a19444e-6837-4356-a533-be34013a190d.png )
